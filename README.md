@@ -67,4 +67,4 @@ A simple and practical 4x4 mechanical keypad.
 
 ## License
 
- Released under [MIT License](https://github.com/aureliengmichaud/Odyssey67/blob/master/LICENSE).
+ Released under [MIT License](https://github.com/aureliengmichaud/Europa/blob/master/LICENSE).
