@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Logos)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/03. Partagé/Documents/Projects/Resources/KiCad/Logos.pretty")(options "")(descr ""))
+  (lib (name Aurelien-Keeb-Parts)(type KiCad)(uri "C:/Users/molokopluz/Dropbox/03. Partagé/Documents/Projects/Resources/KiCad/Aurelien-Keeb-Parts.pretty")(options "")(descr ""))
+)
