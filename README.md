@@ -5,6 +5,8 @@
 
 A simple and practical 4x4 mechanical keypad.
 
+ ![PCB Front Render](https://i.imgur.com/yggd61h.png)
+
 ## Features
 
  * Simple and usable layout.
@@ -20,11 +22,11 @@ A simple and practical 4x4 mechanical keypad.
 
 ### Front
 
- ![PCB Front]()
+ ![PCB Front](https://i.imgur.com/yggd61h.png)
 
 ### Back
 
- ![PCB Back]()
+ ![PCB Back](https://i.imgur.com/MpE3kGi.png)
 
 ### Files
 
@@ -34,15 +36,15 @@ A simple and practical 4x4 mechanical keypad.
 
 ### Switch Plate
 
- ![Switch Plate]()
+ ![Switch Plate](https://i.imgur.com/2qBzaoF.png)
 
 ### Bottom Plate
 
- ![Bottom Plate]()
+ ![Bottom Plate](https://i.imgur.com/MTNHZtB.png)
 
 ### Files
 
- Grab the files needed to get the plates made or modified in KiCad [here](https://github.com/aureliengmichaud/Europa/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs. If you choose to get them made in PCB material (FR-4), you'll find the switch plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Switch-Plate-Gerbers-Rev1.zip) and the bottom plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Bottom-Plate-Gerbers-Rev1.zip).
+ Grab the files needed to get the plates made or modified in KiCad [here](https://github.com/aureliengmichaud/Europa/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs. If you choose to get them made in PCB material (FR-4), you'll find the gerbers for the switch plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Switch-Plate-Gerbers-Rev1.zip) and the bottom plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Bottom-Plate-Gerbers-Rev1.zip).
 
 ## Parts
 
