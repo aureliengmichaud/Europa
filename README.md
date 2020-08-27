@@ -61,7 +61,7 @@ A simple and practical 4x4 mechanical keypad.
 
 ## Firmware
 
- The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Europa [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey67).
+ The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Europa [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/aureliengmichaud/europa).
 
  If you're new to QMK, please take the time to learn all the ins and outs and familiarize yourself with it by reading the [official documentation](https://docs.qmk.fm/#/).
 
