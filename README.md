@@ -16,16 +16,6 @@ A simple and practical 4x4 mechanical keypad.
  * Fully open source.
  * Powered by [QMK Firmware](https://github.com/qmk/qmk_firmware).
 
- ## Layout
-
-### General Layout
-
- ![KLE Layout]()
-
-### Keycaps Size Layout
-
- ![Keycaps Size Layout]()
-
 ## PCB
 
 ### Front
@@ -44,33 +34,32 @@ A simple and practical 4x4 mechanical keypad.
 
 ### Switch Plate
 
- ![Switch Plate](https://i.imgur.com/5GfHcBU.png)
+ ![Switch Plate]()
 
 ### Bottom Plate
 
- ![Bottom Plate](https://i.imgur.com/EwsVY63.png)
+ ![Bottom Plate]()
 
 ### Files
 
- Grab the files needed to get the plates made [here](https://github.com/aureliengmichaud/Odyssey67/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs.
+ Grab the files needed to get the plates made or modified in KiCad [here](https://github.com/aureliengmichaud/Europa/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs. If you choose to get them made in PCB material (FR-4), you'll find the switch plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Switch-Plate-Gerbers-Rev1.zip) and the bottom plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Bottom-Plate-Gerbers-Rev1.zip).
 
 ## Parts
 
- All the parts required are neatly listed in the [build guide](https://github.com/aureliengmichaud/Odyssey67/tree/master/Build%20Guide), but here's a quick overview:
+ All the parts required to build the Europa :
 
- * x1 Odyssey67 PCB
+ * x1 Europa PCB
  * x1 Switch & Bottom Plates
- * x16 M3x8 Screws
- * x8 M3x14 Standoffs
- * x67 Cherry MX Switches (or compatible)
- * x1 Set of Cherry MX PCB Mount Stabilizers
- * x67 1N4148 Diodes
- * x1 USB-C Cable
- * x67 Keycaps
+ * x20 M3x8 Screws
+ * x10 M3x14 Standoffs
+ * x16 Cherry MX Switches (or compatible)
+ * x16 1N4148 Diodes
+ * x1 Micro USB Cable
+ * x16 Keycaps
 
 ## Firmware
 
- The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Odyssey67 [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey67).
+ The keyboard is powered by [QMK Firmware](https://github.com/qmk/qmk_firmware). You can find the firmware for the Europa [here](https://github.com/aureliengmichaud/qmk_firmware/tree/master/keyboards/odyssey67).
 
  If you're new to QMK, please take the time to learn all the ins and outs and familiarize yourself with it by reading the [official documentation](https://docs.qmk.fm/#/).
 
