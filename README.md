@@ -30,7 +30,7 @@ A simple and practical 4x4 mechanical keypad.
 
 ### Files
 
- Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-PCB-Gerbers-Rev1.zip). The next step is to simply upload the zip to the PCB manufacturer of your choice.
+ Grab the zip containing the gerbers files needed for manufacturing [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-PCB-Gerbers-Rev1.zip).
 
 ## Plates
 
@@ -46,18 +46,20 @@ A simple and practical 4x4 mechanical keypad.
 
  Grab the files needed to get the plates made or modified in KiCad [here](https://github.com/aureliengmichaud/Europa/tree/master/Plates). DXF and SVG files are included, depending on the manufacturer's needs. If you choose to get them made in PCB material (FR-4), you'll find the gerbers for the switch plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Switch-Plate-Gerbers-Rev1.zip) and the bottom plate [here](https://github.com/aureliengmichaud/Europa/blob/master/Europa-Bottom-Plate-Gerbers-Rev1.zip).
 
-## Parts
+## Parts List
 
- All the parts required to build the Europa :
-
- * x1 Europa PCB
- * x1 Switch & Bottom Plates
- * x20 M3x8 Screws
- * x10 M3x14 Standoffs
- * x16 Cherry MX Switches (or compatible)
- * x16 1N4148 Diodes
- * x1 Micro USB Cable
- * x16 Keycaps
+ Part  |  Quantity
+ :----  |  :--------:
+ [Europa PCB](https://github.com/aureliengmichaud/Europa/blob/master/Europa-PCB-Gerbers-Rev1.zip)  |  1
+ [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)  |  16
+ [Pro Micro Microcontroller](https://candykeys.com/product/pro-micro-5v-16mhz)  |  1
+ [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  16
+ [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
+ [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
+ [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  16
+ [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  8
+ [Micro-USB Cable](https://voltacharger.com/products/volta-2-0)  | 1
+ [Keycaps](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200426114303&SearchText=keycaps)  |  16
 
 ## Firmware
 
