@@ -53,9 +53,9 @@ A simple and practical 4x4 mechanical keypad.
  [Europa PCB](https://github.com/aureliengmichaud/Europa/blob/master/Europa-PCB-Gerbers-Rev1.zip)  |  1
  [1N4148 Diodes](https://candykeys.com/product/fairchild-semiconductor-diode-1n4148-pack-of-100)  |  16
  [Pro Micro Microcontroller](https://candykeys.com/product/pro-micro-5v-16mhz)  |  1
- [Cherry MX (or compatible) Switches](https://candykeys.com/category:switches/brand:cherry)  |  16
- [Odyssey 67 Switch Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
- [Odyssey 67 Bottom Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
+ [Cherry MX Switches  (or compatible)](https://candykeys.com/category:switches/brand:cherry)  |  16
+ [Europa Switch Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
+ [Europa Bottom Plate](https://github.com/aureliengmichaud/Europa/tree/master/Plates)  |  1
  [M3x8 Screws](https://www.ebay.fr/sch/i.html?_odkw=m3x8+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+screws&_sacat=0)  |  16
  [M3x14 Standoffs](https://www.ebay.fr/sch/i.html?_odkw=m3+screws&_osacat=0&_from=R40&_trksid=m570.l1313&_nkw=m3+standoffs&_sacat=0)  |  8
  [Micro-USB Cable](https://voltacharger.com/products/volta-2-0)  | 1
